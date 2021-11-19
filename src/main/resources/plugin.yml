@@ -1,0 +1,4 @@
+name: Test
+version: '${version}'
+main: su.demands.test.ItemJoin
+api-version: 1.16
